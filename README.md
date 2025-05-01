@@ -17,7 +17,7 @@ This paper presents a preliminary demo for designing AI avatars that enhance hum
 
 [![Watch the video](thumbnail.png)](https://youtu.be/vMBMX__ABxo)
 
-
+Click the image to watch the demo
 ## Source code
 Coming soon
 
